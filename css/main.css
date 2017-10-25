@@ -1,0 +1,73 @@
+/*creamos el body donde ira el contenido*/
+body{
+    margin: auto;
+}
+/*caja contenedora clase llamada  fotos*/
+.fotos{
+    height: 730px;
+    margin-top: 50px;
+    margin-left:20px;
+    width: 730px;
+}
+/*titulo*/
+h3{
+    bottom: 5px;
+    margin-left: 15px;
+}
+
+.linea{
+    border-bottom: 4px solid black;
+    margin-left: 15px;
+    width: 80px;
+}
+
+/*clase  donde van las fotos*/
+.box{   
+    border: 2px solid gray;
+    float: left;
+    margin: 15px;
+    position: relative;
+}
+/*clases donde van las coders desde n1 a la n6*/    
+.n1{
+    background-image:url("../asset/images/one.png");
+    height:160px;
+    width:160px;
+}
+
+.n2{
+    background-image:url("../asset/images/two.png");
+    height:160px;
+    width:160px;
+}
+.n3{
+    background-image:url("../asset/images/three.png"); 
+    height:160px;
+    width:160px;
+}
+.n4{
+    background-image: url("../asset/images/four.png");
+    height:160px;
+    width:160px;
+    
+}
+.n5{
+    background-image:url("../asset/images/five.png");
+    height:160px;
+    width:160px;
+}
+.n6{
+    background-image:url("../asset/images/six.png");
+    height:160px;
+    width:160px;
+}
+/*texto*/
+p{
+    bottom:8px;
+    color:white;
+    margin:0px;
+    padding:0px;
+    position: absolute;
+    right:10px;
+}
+
