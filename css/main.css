@@ -30,34 +30,34 @@ h3{
 }
 /*clases donde van las coders desde n1 a la n6*/    
 .n1{
-    background-image:url("../asset/images/one.png");
+    background-image:url("../assets/images/one.png");
     height:160px;
     width:160px;
 }
 
 .n2{
-    background-image:url("../asset/images/two.png");
+    background-image:url("../assets/images/two.png");
     height:160px;
     width:160px;
 }
 .n3{
-    background-image:url("../asset/images/three.png"); 
+    background-image:url("../assets/images/three.png"); 
     height:160px;
     width:160px;
 }
 .n4{
-    background-image: url("../asset/images/four.png");
+    background-image: url("../assets/images/four.png");
     height:160px;
     width:160px;
     
 }
 .n5{
-    background-image:url("../asset/images/five.png");
+    background-image:url("../assets/images/five.png");
     height:160px;
     width:160px;
 }
 .n6{
-    background-image:url("../asset/images/six.png");
+    background-image:url("../assets/images/six.png");
     height:160px;
     width:160px;
 }
@@ -70,4 +70,3 @@ p{
     position: absolute;
     right:10px;
 }
-
