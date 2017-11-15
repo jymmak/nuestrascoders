@@ -1,1 +1,1 @@
-![](asset/images/nc.png)
+![](assets/images/nc.png)
